@@ -1,0 +1,13 @@
+MANIFES PENGIRIMAN BANTUAN
+==============================================
+No.  | Kode Barang     | Nama Barang               | Kategori        | Berat (kg)
+------------------------------------------------
+1    | EDX-0042        | Beras Rojo Lele           | Beras           |      10.00
+2    | EDX-0032        | Indomie                   | Mie Instan      |       4.00
+3    | EDX-0011        | Telur                     | Telur           |       1.00
+4    | EDX-0004        | Paracetamol               | Obat            |       1.00
+5    | EDX-0005        | Piring                    | Peralatan       |      12.50
+------------------------------------------------
+Total barang: 5
+Total berat: 28.50 kg
+Label armada: Mobil Pickup
